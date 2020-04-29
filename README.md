@@ -9,5 +9,3 @@ The Bank Account Management System is an application for maintaining a person's 
 .
 .
 NOTE: THIS PROJECT IS FOR LEARNING PURPOSE, DON'T COPY PASTE. 
-Thank you,
-Authors of this project. 
